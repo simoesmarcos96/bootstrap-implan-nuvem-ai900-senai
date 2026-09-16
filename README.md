@@ -1,4 +1,4 @@
-# Implantação de serviço em nuvem ai 900 
+# Implantação de serviços de inteligência artificial em nuvem - microsoft ai-900
 
 AI-900 Azure + Bootstrap
 
